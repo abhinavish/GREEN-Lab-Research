@@ -1,4 +1,6 @@
-1. Overview of Spiking Neural Networks (SNNs):
+
+
+#Overview of Spiking Neural Networks (SNNs):
 Neurons and Spikes:
 Unlike traditional artificial neural networks (ANNs) that use continuous activation functions (e.g., ReLU, Sigmoid), SNNs use spiking neurons, which emit discrete spikes (binary events) over time.
 A neuron in an SNN remains inactive until its membrane potential crosses a threshold, at which point it "fires" a spike and resets its potential.
